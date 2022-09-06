@@ -1,0 +1,191 @@
+body {
+    font-family: sans-serif;
+}
+/* nav{
+    border: 2px solid lightgrey;
+
+}
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center ;
+    margin:25px;
+    color:lightgrey;
+}
+
+ */
+/* nav{
+    background-color: green;
+
+}
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center ;
+    margin:25px;
+    color:rgb(255, 255, 255);
+} */
+
+/* 
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    margin:12px;
+    border: 3px solid navy ;
+    color: #fff;
+    border-radius: 10px;
+    padding:7px;
+    background-color:navy;
+    
+}
+.products{
+      color: navy;
+      background-color:#fff;
+} */
+/* 
+nav{
+    border:3px solid cyan
+
+}
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center ;
+    margin:25px;
+    color:blueviolet;
+} */
+
+/* 5 */
+/* nav{
+    border:3px solid cyan
+
+}
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center ;
+    margin:25px;
+    color:black;
+} */
+
+/* nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center ;
+    margin:5px;
+    color:black;
+    border:3px solid orange;
+    border-radius: 5px;
+    padding: 5px;
+
+} */
+/* 
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center ;
+    margin:5px;
+    color:black;
+    border:3px solid dodgerblue;
+    border-radius: 5px;
+    padding: 5px;
+
+} */
+
+/* 
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center ;
+    margin:5px;
+    color:white;
+    border:3px solid dodgerblue;
+    border-radius: 5px;
+    padding: 5px;
+    background: dodgerblue;
+
+} */
+
+/* nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center ;
+    margin:5px;
+    color:white;
+    border:3px solid navy;
+    padding: 5px;
+    background: navy;
+
+} */
+/* 
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center ;
+    margin:5px;
+    color:black;
+    border:3px solid navy;
+    border-radius: 15px;
+    padding:2px;
+}
+ */
+/* 
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center ;
+    margin:5px;
+    color:black;
+    border:3px solid palegreen;
+    padding: 5px;
+    background: palegreen;
+    border-radius: 5px;
+
+} */
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center ;
+    margin:5px;
+    color:black;
+    border:3px solid violet;
+    padding: 5px;
+    background: violet;
+    border-radius: 5px;
+
+
+
+/* .asd1{
+    background-color:#B7E48C;
+    color:#fff;
+} */
+.asd1 {
+    background-color:#E26B4B;
+    border-radius: 5px;
+    color:#fff;
+} 
+/* 
+ .asd1 {
+    border-radius: 5px;
+    border:3px solid navy
+
+}  */
+h1{
+    color:blue;
+}
+.p1{
+    
+    font-family: sans-serif;
+    font-style: italic;
+}
+.imgg {
+    border:2px solid #B3DCEE;
+    border-radius: 5px;
+}
+
+.btn {
+    border:3px solid navy;
+    padding: 5px;
+    
+}
